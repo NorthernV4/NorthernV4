@@ -1,0 +1,3 @@
+-Hey! I'm Northern!
+-I Like programming
+-I mostly program in discord.js and discord.py
