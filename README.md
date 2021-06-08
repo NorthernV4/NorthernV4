@@ -6,14 +6,18 @@
 
 > I'm just a nobody that codes.
 
-# My New Repositorys
+# My New Repositries
 
-[My Python Discord Bot Template](https://github.com/NorthernV4/Discord-Python-Template)
+[Python Discord Bot Template](https://github.com/NorthernV4/Discord-Python-Template)
 
-[My Casino Bot](https://github.com/NorthernV4/Casino-Bot)
+[Casino Bot](https://github.com/NorthernV4/Casino-Bot)
 
-[My aoi.js/dbd.js Bot](https://github.com/NorthernV4/aoi.js-Bot)
+[aoi.js/dbd.js Bot](https://github.com/NorthernV4/aoi.js-Bot)
 > More coming soon!
+
+# My Private Repositries
+
+[Wastecraft Anarchy Discord Bot](https://github.com/NorthernV4/Wastecraft-Bot)
 
 ## Contact Me!
 
