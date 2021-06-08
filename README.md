@@ -11,8 +11,10 @@
 [My Python Discord Bot Template](https://github.com/NorthernV4/Discord-Python-Template)
 
 [My Casino Bot](https://github.com/NorthernV4/Casino-Bot)
+
+[My aoi.js/dbd.js Bot](https://github.com/NorthernV4/aoi.js-Bot)
 > More coming soon!
 
 ## Contact Me!
 
-< northern#0001
+> northern#0001
