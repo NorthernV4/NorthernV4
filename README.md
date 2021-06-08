@@ -6,6 +6,12 @@
 
 > I'm just a nobody that codes.
 
+# Wastecraft Socials
+
+[Wastecraft YouTube[(https://www.youtube.com/channel/UC4ru2AtWpulEHmmazoLhR8A)
+
+[Wastecraft Twitter[(twitter,com/wastecraft)
+
 # My New Repositries
 
 [Python Discord Bot Template](https://github.com/NorthernV4/Discord-Python-Template)
