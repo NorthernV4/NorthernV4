@@ -10,7 +10,7 @@
 
 [Wastecraft YouTube](https://www.youtube.com/channel/UC4ru2AtWpulEHmmazoLhR8A)
 
-[Wastecraft Twitter](twitter,com/wastecraft)
+[Wastecraft Twitter](twitter.com/wastecraft)
 
 # My New Repositries
 
