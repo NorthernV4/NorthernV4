@@ -9,6 +9,7 @@
 # My New Repositorys
 
 [My Python Discord Bot Template](https://github.com/NorthernV4/Discord-Python-Template)
+
 [My Casino Bot](https://github.com/NorthernV4/Casino-Bot)
 > More coming soon!
 
